@@ -1,1 +1,19 @@
+Colors in html
+color
+01. Names (blue, green, red , black etc)
+02. RGB( RED GREEN BLUE)
+03. hex(hexidecimal)
+    value hoti start 0 leke 255
+    rgb(255,0,0)red
+    rgb(0,255,0)green
+    rgb(0,0,255)blue 
 
+hex
+RED (#ff0000)
+GREEN (#00ff00)
+BLUE (#0000ff)
+
+red+blue=purple
+red+green=yellow
+green+blue=aqua
+red+blue+green=white
